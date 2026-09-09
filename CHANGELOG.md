@@ -1,4 +1,10 @@
 
+## [6.17.0-at]
+
+### Changed
+- Upgrade `@cloudamqp/amqp-client` to v4
+- Upgrade Node.js target to v26
+
 ## [6.16.7] (2025-03-30)
 
 ### Fix
