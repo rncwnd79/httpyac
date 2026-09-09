@@ -13,7 +13,7 @@ jobs:
       fail-fast: false
       matrix:
         os: [ubuntu-latest]
-        node-version: [18.x]
+        node-version: [26.x]
     runs-on: ${{ matrix.os }}
     steps:
       - name: Checkout
