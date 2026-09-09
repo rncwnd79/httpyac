@@ -1,5 +1,5 @@
 
-## [6.17.0-at]
+## [6.17.0]
 
 ### Changed
 - Upgrade `@cloudamqp/amqp-client` to v4
